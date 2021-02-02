@@ -1,4 +1,4 @@
-# csgo-practice-cfg
+# ktg5's CSGO practice CFG
 ## Note.
 This CFG is made for servers where you can enable `sv_cheats`, anywhere else you can not enable `sv_cheats` -- this CFG won't work there.
 
