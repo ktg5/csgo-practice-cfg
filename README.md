@@ -1,4 +1,9 @@
 # ktg5's CSGO practice CFG
+
+## Stable build: [1000](https://github.com/ktg5/csgo-practice-cfg/releases)
+
+## Dev build: [1001](https://github.com/ktg5/csgo-practice-cfg/archive/master.zip)
+
 ## Note.
 This CFG is made for servers where you can enable `sv_cheats`, anywhere else you can not enable `sv_cheats` -- this CFG won't work there.
 
