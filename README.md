@@ -10,7 +10,7 @@ This CFG is made for servers where you can enable `sv_cheats`, anywhere else you
 ## What does this CFG do?
 This CFG is made for testing out nades, wall-bangs, and other practice things so you can practice for those cool clips.
 
-And remember, you can always disable the CFG using `cfg_disable_practice`.
+It als gives you binds and aliases to help you with your practice.
 
 ### Binds
 `/` -- High-explosive.
@@ -24,3 +24,8 @@ And remember, you can always disable the CFG using `cfg_disable_practice`.
 `X` -- Noclip.
 
 `Z` -- Toggle `mat_wireframe` (see objects thru walls).
+
+### Aliases
+`cfg_toggle_bhop` -- Toggles Bhop.
+
+`cfg_disable_practice` -- Disables the CFG.
