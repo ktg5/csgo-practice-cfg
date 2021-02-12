@@ -24,3 +24,6 @@ And remember, you can always disable the CFG using `cfg_disable_practice`.
 `X` -- Noclip.
 
 `Z` -- Toggle `mat_wireframe` (see objects thru walls).
+
+### Aliases
+`cfg_disable_practice` -- Disables the CFG (binds and stuff)
