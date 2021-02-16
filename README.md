@@ -1,6 +1,6 @@
 # ktg5's CSGO practice CFG
 
-## Stable build: [1000](https://github.com/ktg5/csgo-practice-cfg/releases)
+## Stable build: [1001](https://github.com/ktg5/csgo-practice-cfg/releases)
 
 ## Dev build: [1001](https://github.com/ktg5/csgo-practice-cfg/archive/master.zip)
 
